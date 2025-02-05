@@ -5,6 +5,7 @@ Propensity modeling is a particular approach to identify customers who are likel
 To run the code and train the model, you need the following dependencies:
 - Python 3.x
 - Matplotlib
+- Pandas
 - Seaborn
 - NumPy
 - scikit-learn
